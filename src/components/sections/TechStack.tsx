@@ -6,11 +6,13 @@ const TECH_LIST = [
   { name: 'Next.js', category: 'Framework', color: '#FFFFFF', textContrast: '#000000' }, // White -> Black text
   { name: 'React', category: 'Library', color: '#61DAFB', textContrast: '#000000' }, // Light Blue -> Black text
   { name: 'TypeScript', category: 'Language', color: '#3178C6' },
+  { name: 'Node Js', category: 'Backend', color: '#61DAFB', textContrast: '#000000' }, // Light Blue -> Black text
   { name: 'GSAP', category: 'Motion', color: '#88CE02', textContrast: '#000000' }, // Bright Green -> Black text
   { name: 'Tailwind', category: 'Styling', color: '#38B2AC' },
   { name: 'Three.js', category: 'Spatial', color: '#FFFFFF', textContrast: '#000000' }, // White -> Black text
-  { name: 'Neon', category: 'Database', color: '#00E599', textContrast: '#000000' }, // Bright Green -> Black text
+  { name: 'Neon Postgre', category: 'Database', color: '#00E599', textContrast: '#000000' }, // Bright Green -> Black text
   { name: 'Prisma', category: 'ORM', color: '#5A67D8' },
+   { name: 'MongoDb', category: 'Database', color: '#88CE02', textContrast: '#000000' }, // Bright Green -> Black text
   { name: 'Sanity', category: 'CMS', color: '#F03E2F' },
   { name: 'WordPress', category: 'CMS', color: '#21759B' },
   { name: 'JavaScript', category: 'Language', color: '#F7DF1E', textContrast: '#000000' }, // Yellow -> Black text
