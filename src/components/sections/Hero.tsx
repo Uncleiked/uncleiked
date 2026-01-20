@@ -1,4 +1,4 @@
-'use client';
+you'use client';
 
 import SpatialSection from '@/components/three/SpatialSection';
 import VoxelHero from '@/components/three/VoxelHero';
@@ -92,7 +92,7 @@ export default function Hero() {
             </h1>
           </div>
           <p className="hero-subtitle text-lg md:text-2xl font-mono tracking-[0.3em] uppercase max-w-2xl mx-auto text-foreground/50">
-            Creative Developer | Portfolio v2026.1
+            Creative Fullstack Developer | Portfolio v2026.1
           </p>
         </div>
       </div>
