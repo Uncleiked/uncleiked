@@ -55,10 +55,10 @@ export default function About() {
 
             <div className="flex flex-wrap gap-4 md:gap-6">
               <div className="px-6 py-3 md:px-8 md:py-4 bg-primary/10 border border-primary/20 rounded-2xl text-[10px] md:text-xs uppercase tracking-[0.2em] font-black text-primary hover:bg-primary/20 transition-colors">
-                Next.js 16 Expert
+                Next.js React.Js Expert
               </div>
               <div className="px-6 py-3 md:px-8 md:py-4 bg-primary/10 border border-primary/20 rounded-2xl text-[10px] md:text-xs uppercase tracking-[0.2em] font-black text-primary hover:bg-primary/20 transition-colors">
-                R3F Specialist
+                Typescript Specialist
               </div>
             </div>
           </div>
