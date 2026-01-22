@@ -4,7 +4,7 @@ import { Github, Instagram, Linkedin, Twitter } from 'lucide-react';
 
 const SOCIALS = [
   { name: 'X', icon: Twitter, href: 'https://x.com/danyik3d' },
-  { name: 'GitHub', icon: Github, href: 'https://github.com/danyiked' },
+  { name: 'GitHub', icon: Github, href: 'https://github.com/Uncleiked' },
   { name: 'Instagram', icon: Instagram, href: 'https://instagram.com/uncleiked' },
   { name: 'LinkedIn', icon: Linkedin, href: 'https://www.linkedin.com/in/daniel-ikediashi-052952251/?originalSubdomain=ng' },
 ];
