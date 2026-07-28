@@ -1,4 +1,4 @@
-you'use client';
+'use client';
 
 import SpatialSection from '@/components/three/SpatialSection';
 import VoxelHero from '@/components/three/VoxelHero';
